@@ -6,7 +6,7 @@ This project empowers you to craft a polished resume using your LinkedIn profile
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/LinkedIn-Resume-Builder.git
+    git clone https://github.com/Virgo-Alpha/linkedin_resume_builder.git
     ```
 
 2. **Navigate to the project directory:**
